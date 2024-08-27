@@ -1,0 +1,57 @@
+Molecular Function				
+				
+1	transcription regulator activity (GO:0140110)	17	15.30%	12.50%
+2	molecular adaptor activity (GO:0060090)	2	1.80%	1.50%
+3	binding (GO:0005488)	34	30.60%	25.00%
+4	structural molecule activity (GO:0005198)	1	0.90%	0.70%
+5	ATP-dependent activity (GO:0140657)	3	2.70%	2.20%
+6	catalytic activity (GO:0003824)	10	9.00%	7.40%
+7	No PANTHER category is assigned (UNCLASSIFIED)	69	62.20%	50.70%
+				
+				
+Biological Process				
+				
+1	cellular process (GO:0009987)	11	9.90%	8.50%
+2	reproductive process (GO:0022414)	1	0.90%	0.80%
+3	No PANTHER category is assigned (UNCLASSIFIED)	73	65.80%	56.60%
+4	localization (GO:0051179)	1	0.90%	0.80%
+5	biological regulation (GO:0065007)	27	24.30%	20.90%
+6	reproduction (GO:0000003)	1	0.90%	0.80%
+7	response to stimulus (GO:0050896)	2	1.80%	1.60%
+8	developmental process (GO:0032502)	1	0.90%	0.80%
+9	multicellular organismal process (GO:0032501)	1	0.90%	0.80%
+10	metabolic process (GO:0008152)	11	9.90%	8.50%
+				
+				
+Celular component				
+				
+1	cellular anatomical entity (GO:0110165)	46	41.40%	36.20%
+2	protein-containing complex (GO:0032991)	16	14.40%	12.60%
+3	No PANTHER category is assigned (UNCLASSIFIED)	65	58.60%	51.20%
+				
+Protein Class				
+				
+1	"chromatin/chromatin-binding, or -regulatory protein (PC00077)"	1	0.90%	0.90%
+2	transporter (PC00227)	3	2.70%	2.70%
+3	gene-specific transcriptional regulator (PC00264)	29	26.10%	26.10%
+4	metabolite interconversion enzyme (PC00262)	2	1.80%	1.80%
+5	DNA metabolism protein (PC00009)	1	0.90%	0.90%
+6	protein modifying enzyme (PC00260)	5	4.50%	4.50%
+7	No PANTHER category is assigned (UNCLASSIFIED)	49	44.10%	44.10%
+8	RNA metabolism protein (PC00031)	21	18.90%	18.90%
+				
+				
+Pathway				
+				
+1	BMP/activin signaling pathway-drosophila (P06211)	1	0.90%	0.80%
+2	No PANTHER category is assigned (UNCLASSIFIED)	110	99.10%	90.90%
+3	p53 pathway (P00059)	1	0.90%	0.80%
+4	Huntington disease (P00029)	1	0.90%	0.80%
+5	Wnt signaling pathway (P00057)	1	0.90%	0.80%
+6	Transcription regulation by bZIP transcription factor (P00055)	1	0.90%	0.80%
+7	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway (P00026)	1	0.90%	0.80%
+8	TGF-beta signaling pathway (P00052)	1	0.90%	0.80%
+9	SCW signaling pathway (P06216)	1	0.90%	0.80%
+10	GBB signaling pathway (P06214)	1	0.90%	0.80%
+11	DPP signaling pathway (P06213)	1	0.90%	0.80%
+12	DPP-SCW signaling pathway (P06212)	1	0.90%	0.80%

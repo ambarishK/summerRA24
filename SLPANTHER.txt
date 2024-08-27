@@ -1,0 +1,60 @@
+Molecular Function				
+				
+1	transcription regulator activity (GO:0140110)	13	10.20%	8.90%
+2	molecular adaptor activity (GO:0060090)	4	3.10%	2.70%
+3	binding (GO:0005488)	28	21.90%	19.20%
+4	ATP-dependent activity (GO:0140657)	2	1.60%	1.40%
+5	catalytic activity (GO:0003824)	8	6.30%	5.50%
+6	No PANTHER category is assigned (UNCLASSIFIED)	90	70.30%	61.60%
+7	cytoskeletal motor activity (GO:0003774)	1	0.80%	0.70%
+				
+Biological process				
+				
+1	cellular process (GO:0009987)	19	14.80%	12.30%
+2	No PANTHER category is assigned (UNCLASSIFIED)	90	70.30%	58.40%
+3	localization (GO:0051179)	4	3.10%	2.60%
+4	biological process involved in interspecies interaction between organisms (GO:0044419)	1	0.80%	0.60%
+5	biological regulation (GO:0065007)	23	18.00%	14.90%
+6	response to stimulus (GO:0050896)	3	2.30%	1.90%
+7	homeostatic process (GO:0042592)	1	0.80%	0.60%
+8	metabolic process (GO:0008152)	12	9.40%	7.80%
+9	immune system process (GO:0002376)	1	0.80%	0.60%
+				
+Cellular components 				
+1	cellular anatomical entity (GO:0110165)	45	35.20%	32.60%
+2	protein-containing complex (GO:0032991)	10	7.80%	7.20%
+3	No PANTHER category is assigned (UNCLASSIFIED)	83	64.80%	60.10%
+				
+Protein class				
+				
+1	protein modifying enzyme (PC00260)	5	3.90%	3.90%
+2	transporter (PC00227)	1	0.80%	0.80%
+3	scaffold/adaptor protein (PC00226)	1	0.80%	0.80%
+4	membrane traffic protein (PC00150)	2	1.60%	1.60%
+5	No PANTHER category is assigned (UNCLASSIFIED)	67	52.30%	52.30%
+6	chaperone (PC00072)	1	0.80%	0.80%
+7	RNA metabolism protein (PC00031)	21	16.40%	16.40%
+8	cytoskeletal protein (PC00085)	1	0.80%	0.80%
+9	viral or transposable element protein (PC00237)	3	2.30%	2.30%
+10	gene-specific transcriptional regulator (PC00264)	21	16.40%	16.40%
+11	translational protein (PC00263)	1	0.80%	0.80%
+12	metabolite interconversion enzyme (PC00262)	1	0.80%	0.80%
+13	"chromatin/chromatin-binding, or -regulatory protein (PC00077)"	3	2.30%	
+				
+				
+Pathways				
+				
+1	BMP/activin signaling pathway-drosophila (P06211)	1	0.80%	0.70%
+2	No PANTHER category is assigned (UNCLASSIFIED)	125	97.70%	89.30%
+3	p53 pathway (P00059)	1	0.80%	0.70%
+4	Huntington disease (P00029)	2	1.60%	1.40%
+5	Wnt signaling pathway (P00057)	1	0.80%	0.70%
+6	Transcription regulation by bZIP transcription factor (P00055)	2	1.60%	1.40%
+7	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway (P00026)	1	0.80%	0.70%
+8	TGF-beta signaling pathway (P00052)	1	0.80%	0.70%
+9	General transcription regulation (P00023)	1	0.80%	0.70%
+10	SCW signaling pathway (P06216)	1	0.80%	0.70%
+11	DNA replication (P00017)	1	0.80%	0.70%
+12	GBB signaling pathway (P06214)	1	0.80%	0.70%
+13	DPP signaling pathway (P06213)	1	0.80%	0.70%
+14	DPP-SCW signaling pathway (P06212)	1	0.80%	0.70%
