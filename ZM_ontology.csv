@@ -1,0 +1,107 @@
+GO cellular component complete,Zea mays - REFLIST (39216),upload_1 (18),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (raw P-value),upload_1 (FDR)
+H4/H2A histone acetyltransferase complex (GO:0043189),18,2,0.01,+, > 100,3.03E-05,6.77E-03
+NuA4 histone acetyltransferase complex (GO:0035267),18,2,0.01,+, > 100,3.03E-05,5.41E-03
+H4 histone acetyltransferase complex (GO:1902562),21,2,0.01,+, > 100,4.16E-05,6.19E-03
+histone acetyltransferase complex (GO:0000123),53,2,0.02,+,82.21,2.70E-04,2.01E-02
+acetyltransferase complex (GO:1902493),64,2,0.03,+,68.08,3.94E-04,2.71E-02
+protein acetyltransferase complex (GO:0031248),64,2,0.03,+,68.08,3.94E-04,2.52E-02
+transcription regulator complex (GO:0005667),167,5,0.08,+,65.23,1.08E-08,9.65E-06
+intracellular protein-containing complex (GO:0140535),698,4,0.32,+,12.49,2.50E-04,2.03E-02
+protein-containing complex (GO:0032991),3553,8,1.63,+,4.91,8.57E-05,8.50E-03
+nucleus (GO:0005634),4971,10,2.28,+,4.38,1.76E-05,5.23E-03
+intracellular anatomical structure (GO:0005622),11924,16,5.47,+,2.92,4.14E-07,1.85E-04
+intracellular organelle (GO:0043229),10223,13,4.69,+,2.77,5.51E-05,7.03E-03
+organelle (GO:0043226),10235,13,4.7,+,2.77,5.58E-05,6.23E-03
+intracellular membrane-bounded organelle (GO:0043231),9141,11,4.2,+,2.62,6.58E-04,3.46E-02
+membrane-bounded organelle (GO:0043227),9161,11,4.2,+,2.62,6.72E-04,3.33E-02
+cellular anatomical entity (GO:0110165),18194,16,8.35,+,1.92,2.37E-04,2.12E-02
+cellular_component (GO:0005575),18466,16,8.48,+,1.89,4.56E-04,2.55E-02
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+GO biological process complete,Zea mays - REFLIST (39216),upload_1 (18),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (raw P-value),upload_1 (FDR)
+negative regulation of transcription by RNA polymerase II (GO:0000122),19,4,0.01,+, > 100,1.20E-10,5.16E-07
+negative regulation of DNA-templated transcription (GO:0045892),135,4,0.06,+,64.55,3.96E-07,1.07E-04
+negative regulation of RNA biosynthetic process (GO:1902679),135,4,0.06,+,64.55,3.96E-07,1.00E-04
+negative regulation of RNA metabolic process (GO:0051253),139,4,0.06,+,62.7,4.45E-07,1.01E-04
+negative regulation of nucleobase-containing compound metabolic process (GO:0045934),158,4,0.07,+,55.16,7.43E-07,1.39E-04
+positive regulation of transcription by RNA polymerase II (GO:0045944),159,4,0.07,+,54.81,7.62E-07,1.37E-04
+positive regulation of DNA-templated transcription (GO:0045893),307,5,0.14,+,35.48,2.24E-07,8.05E-05
+positive regulation of RNA biosynthetic process (GO:1902680),307,5,0.14,+,35.48,2.24E-07,7.43E-05
+positive regulation of macromolecule biosynthetic process (GO:0010557),341,5,0.16,+,31.95,3.77E-07,1.16E-04
+positive regulation of cellular biosynthetic process (GO:0031328),344,5,0.16,+,31.67,3.94E-07,1.13E-04
+positive regulation of biosynthetic process (GO:0009891),345,5,0.16,+,31.57,3.99E-07,9.56E-05
+positive regulation of cellular metabolic process (GO:0031325),354,5,0.16,+,30.77,4.53E-07,9.77E-05
+positive regulation of RNA metabolic process (GO:0051254),361,5,0.17,+,30.18,4.99E-07,1.02E-04
+positive regulation of nucleobase-containing compound metabolic process (GO:0045935),373,5,0.17,+,29.2,5.86E-07,1.15E-04
+positive regulation of cellular process (GO:0048522),419,5,0.19,+,26,1.04E-06,1.79E-04
+positive regulation of macromolecule metabolic process (GO:0010604),431,5,0.2,+,25.27,1.19E-06,1.98E-04
+positive regulation of metabolic process (GO:0009893),437,5,0.2,+,24.93,1.28E-06,2.04E-04
+negative regulation of macromolecule biosynthetic process (GO:0010558),405,4,0.19,+,21.52,3.06E-05,3.66E-03
+negative regulation of cellular biosynthetic process (GO:0031327),407,4,0.19,+,21.41,3.12E-05,3.63E-03
+negative regulation of biosynthetic process (GO:0009890),409,4,0.19,+,21.31,3.18E-05,3.60E-03
+negative regulation of cellular metabolic process (GO:0031324),412,4,0.19,+,21.15,3.27E-05,3.61E-03
+negative regulation of macromolecule metabolic process (GO:0010605),430,4,0.2,+,20.27,3.86E-05,4.16E-03
+negative regulation of cellular process (GO:0048523),542,5,0.25,+,20.1,3.66E-06,5.43E-04
+negative regulation of metabolic process (GO:0009892),438,4,0.2,+,19.9,4.15E-05,4.36E-03
+positive regulation of biological process (GO:0048518),553,5,0.25,+,19.7,4.03E-06,5.79E-04
+negative regulation of biological process (GO:0048519),592,5,0.27,+,18.4,5.61E-06,7.33E-04
+regulation of transcription by RNA polymerase II (GO:0006357),537,4,0.25,+,16.23,9.13E-05,9.37E-03
+regulation of gene expression (GO:0010468),2915,12,1.34,+,8.97,3.38E-10,7.29E-07
+regulation of macromolecule biosynthetic process (GO:0010556),2926,12,1.34,+,8.94,3.53E-10,5.08E-07
+regulation of cellular biosynthetic process (GO:0031326),2940,12,1.35,+,8.89,3.74E-10,4.02E-07
+regulation of biosynthetic process (GO:0009889),2943,12,1.35,+,8.88,3.78E-10,3.26E-07
+regulation of cellular metabolic process (GO:0031323),3016,12,1.38,+,8.67,5.02E-10,3.60E-07
+regulation of macromolecule metabolic process (GO:0060255),3060,12,1.4,+,8.54,5.93E-10,3.65E-07
+regulation of metabolic process (GO:0019222),3129,12,1.44,+,8.36,7.68E-10,4.13E-07
+regulation of RNA biosynthetic process (GO:2001141),2434,8,1.12,+,7.16,5.42E-06,7.54E-04
+regulation of DNA-templated transcription (GO:0006355),2434,8,1.12,+,7.16,5.42E-06,7.30E-04
+regulation of primary metabolic process (GO:0080090),2818,9,1.29,+,6.96,1.35E-06,2.08E-04
+regulation of RNA metabolic process (GO:0051252),2524,8,1.16,+,6.91,7.10E-06,9.00E-04
+regulation of nucleobase-containing compound metabolic process (GO:0019219),2569,8,1.18,+,6.78,8.09E-06,9.97E-04
+regulation of cellular process (GO:0050794),4198,12,1.93,+,6.23,2.23E-08,1.07E-05
+regulation of biological process (GO:0050789),4460,12,2.05,+,5.86,4.42E-08,1.91E-05
+biological regulation (GO:0065007),4706,12,2.16,+,5.56,8.11E-08,3.18E-05
+,,,,,,,
+,,,,,,,
+MF,,,,,,,
+translation regulator activity (GO:0045182),1,5.60%,4.50%,,,,
+transcription regulator activity (GO:0140110),1,5.60%,4.50%,,,,
+binding (GO:0005488),8,44.40%,36.40%,,,,
+ATP-dependent activity (GO:0140657),1,5.60%,4.50%,,,,
+catalytic activity (GO:0003824),1,5.60%,4.50%,,,,
+,,,,,,,
+CC,,,,,,,
+cellular anatomical entity (GO:0110165),12,66.70%,48.00%,,,,
+protein-containing complex (GO:0032991),7,38.90%,28.00%,,,,
+,,,,,,,
+,,,,,,,
+BP,,,,,,,
+cellular process (GO:0009987),2,11.10%,10.00%,,,,
+metabolic process (GO:0008152),2,11.10%,10.00%,,,,
+biological regulation (GO:0065007),9,50.00%,45.00%,,,,
+,,,,,,,
+,,,,,,,
+protein class,,,,,,,
+"chromatin/chromatin-binding, or -regulatory protein (PC00077)",3,16.70%,16.70%,,,,
+gene-specific transcriptional regulator (PC00264),4,22.20%,22.20%,,,,
+translational protein (PC00263),1,5.60%,5.60%,,,,
+DNA metabolism protein (PC00009),1,5.60%,5.60%,,,,
+RNA metabolism protein (PC00031),6,33.30%,33.30%,,,,
+,,,,,,,
+Pathways,,,,,,,
+Transcription regulation by bZIP transcription factor (P00055),1,5.60%,5.00%,,,,
+Huntington disease (P00029),1,5.60%,5.00%,,,,
+General transcription regulation (P00023),1,5.60%,5.00%,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+GO,,,,,,,
+GO:0005515(InterPro),,,,,,,
+GO:0003723(InterPro),,,,,,,
+GO:0005524(InterPro)|GO:0140658(InterPro),,,,,,,
+GO:0004540(InterPro),,,,,,,
+GO:0003700(InterPro)|GO:0006355(InterPro),,,,,,,
+GO:0046872(InterPro),,,,,,,
+GO:0005669(InterPro)|GO:0006352(InterPro),,,,,,,

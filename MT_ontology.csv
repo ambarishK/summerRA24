@@ -1,0 +1,89 @@
+Analysis Type:,PANTHER Overrepresentation Test (Released 20240807),,,,,,
+Annotation Version and Release Date:,GO Ontology database DOI:  10.5281/zenodo.12173881 Released 2024-06-17,,,,,,
+Analyzed List:,upload_1 (Medicago truncatula),,,,,,
+Reference List:,Medicago truncatula (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+Correction:,FDR,,,,,,
+GO molecular function complete,Medicago truncatula - REFLIST (49598),upload_1 (18),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (raw P-value),upload_1 (FDR)
+mRNA binding (GO:0003729),561,4,0.2,+,19.65,4.37E-05,3.98E-02
+RNA binding (GO:0003723),1746,6,0.63,+,9.47,2.43E-05,3.32E-02
+nucleic acid binding (GO:0003676),5161,11,1.87,+,5.87,2.43E-07,6.63E-04
+,,,,,,,
+Analysis Type:,PANTHER Overrepresentation Test (Released 20240807),,,,,,
+Annotation Version and Release Date:,GO Ontology database DOI:  10.5281/zenodo.12173881 Released 2024-06-17,,,,,,
+Analyzed List:,upload_1 (Medicago truncatula),,,,,,
+Reference List:,Medicago truncatula (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+Correction:,FDR,,,,,,
+GO biological process complete,Medicago truncatula - REFLIST (49598),upload_1 (18),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (raw P-value),upload_1 (FDR)
+positive regulation of DNA-templated transcription (GO:0045893),376,4,0.14,+,29.31,9.14E-06,3.40E-02
+positive regulation of RNA biosynthetic process (GO:1902680),376,4,0.14,+,29.31,9.14E-06,1.70E-02
+positive regulation of cellular biosynthetic process (GO:0031328),410,4,0.15,+,26.88,1.28E-05,1.59E-02
+positive regulation of macromolecule biosynthetic process (GO:0010557),410,4,0.15,+,26.88,1.28E-05,1.19E-02
+positive regulation of biosynthetic process (GO:0009891),410,4,0.15,+,26.88,1.28E-05,9.56E-03
+positive regulation of RNA metabolic process (GO:0051254),415,4,0.15,+,26.56,1.35E-05,8.35E-03
+positive regulation of cellular metabolic process (GO:0031325),416,4,0.15,+,26.49,1.36E-05,7.23E-03
+positive regulation of nucleobase-containing compound metabolic process (GO:0045935),422,4,0.15,+,26.12,1.44E-05,6.69E-03
+positive regulation of cellular process (GO:0048522),452,4,0.16,+,24.38,1.88E-05,7.78E-03
+positive regulation of macromolecule metabolic process (GO:0010604),484,4,0.18,+,22.77,2.46E-05,9.14E-03
+positive regulation of metabolic process (GO:0009893),486,4,0.18,+,22.68,2.50E-05,8.45E-03
+positive regulation of biological process (GO:0048518),546,4,0.2,+,20.19,3.93E-05,8.60E-03
+regulation of gene expression (GO:0010468),2754,7,1,+,7,2.98E-05,9.25E-03
+regulation of macromolecule biosynthetic process (GO:0010556),2763,7,1,+,6.98,3.05E-05,8.72E-03
+regulation of cellular biosynthetic process (GO:0031326),2768,7,1,+,6.97,3.08E-05,8.19E-03
+regulation of biosynthetic process (GO:0009889),2770,7,1.01,+,6.96,3.10E-05,7.68E-03
+regulation of cellular metabolic process (GO:0031323),2851,7,1.03,+,6.77,3.73E-05,8.67E-03
+regulation of macromolecule metabolic process (GO:0060255),2925,7,1.06,+,6.59,4.40E-05,9.08E-03
+regulation of metabolic process (GO:0019222),2975,7,1.08,+,6.48,4.90E-05,9.59E-03
+,,,,,,,
+,,,,,,,
+Analysis Type:,PANTHER Overrepresentation Test (Released 20240807),,,,,,
+Annotation Version and Release Date:,GO Ontology database DOI:  10.5281/zenodo.12173881 Released 2024-06-17,,,,,,
+Analyzed List:,upload_1 (Medicago truncatula),,,,,,
+Reference List:,Medicago truncatula (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+Correction:,FDR,,,,,,
+GO cellular component complete,Medicago truncatula - REFLIST (49598),upload_1 (18),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (raw P-value),upload_1 (FDR)
+intracellular anatomical structure (GO:0005622),11973,13,4.35,+,2.99,2.28E-05,1.85E-02
+,,,,,,,
+molecular function,,,,,,,
+translation regulator activity (GO:0045182),1,5.60%,4.80%,,,,
+binding (GO:0005488),8,44.40%,38.10%,,,,
+ATP-dependent activity (GO:0140657),1,5.60%,4.80%,,,,
+catalytic activity (GO:0003824),2,11.10%,9.50%,,,,
+,,,,,,,
+,,,,,,,
+biological process,,,,,,,
+cellular process (GO:0009987),4,22.20%,18.20%,,,,
+metabolic process (GO:0008152),3,16.70%,13.60%,,,,
+biological regulation (GO:0065007),4,22.20%,18.20%,,,,
+localization (GO:0051179),1,5.60%,4.50%,,,,
+,,,,,,,
+,,,,,,,
+cellular component,,,,,,,
+cellular anatomical entity (GO:0110165),11,61.10%,45.80%,,,,
+protein-containing complex (GO:0032991),6,33.30%,25.00%,,,,
+,,,,,,,
+,,,,,,,
+protein class,,,,,,,
+transporter (PC00227),1,5.60%,5.60%,,,,
+membrane traffic protein (PC00150),1,5.60%,5.60%,,,,
+scaffold/adaptor protein (PC00226),1,5.60%,5.60%,,,,
+DNA metabolism protein (PC00009),2,11.10%,11.10%,,,,
+RNA metabolism protein (PC00031),7,38.90%,38.90%,,,,
+gene-specific transcriptional regulator (PC00264),1,5.60%,5.60%,,,,
+translational protein (PC00263),1,5.60%,5.60%,,,,
+metabolite interconversion enzyme (PC00262),1,5.60%,5.60%,,,,
+,,,,,,,
+,,,,,,,
+pathway,,,,,,,
+DNA replication (P00017),1,5.60%,5.60%,,,,
+,,,,,,,
+Unique GO terms assigned by interproscan pfam,,,,,,,
+,,,,,,,
+GO:0003723(InterPro),,,,,,,
+GO:0003677(InterPro),,,,,,,
+GO:0005669(InterPro),,,,,,,
+GO:0005524(InterPro),,,,,,,
+GO:0008168(InterPro),,,,,,,
+GO:0035091(InterPro),,,,,,,
